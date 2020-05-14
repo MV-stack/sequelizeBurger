@@ -1,6 +1,6 @@
 USE burgers2_db;
-INSERT INTO burgers2 (burger_name, devoured) VALUES ("burger1", false);
-INSERT INTO burgers2 (burger_name, devoured) VALUES ("burger2", false);
-INSERT INTO burgers2 (burger_name, devoured) VALUES ("burger3", false);
+INSERT INTO burgers2 (burger_name, devoured) VALUES ("Chile Cheeseburger", false);
+INSERT INTO burgers2 (burger_name, devoured) VALUES ("Guacamole Cheeseburger", false);
+INSERT INTO burgers2 (burger_name, devoured) VALUES ("Bacon Bacon Cheeseburger", false);
 
 SELECT * FROM burgers2;
