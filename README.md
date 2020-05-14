@@ -19,7 +19,7 @@ The SequelizeBurger app uses MySQL, Node, Express, Handlebars and Sequelize. The
 ![alt text](/screenshots/Screenshot.PNG)
 
 ### Heroku Live Site
- [SequelizeBurgerApp](https://quiet-hamlet-09046.herokuapp.com/)
+ [SequelizeBurgerApp](https://morning-peak-78468.herokuapp.com/)
 
 ### Github Repo
  [SequelizeBurger](https://github.com/MV-stack/sequelizeBurger)
